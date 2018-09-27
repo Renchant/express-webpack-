@@ -7,8 +7,4 @@ window.onload = () => {
     console.log("hello , this is 静态首页");
     console.log(testText);
 }
-<<<<<<< HEAD
-console.log('test22')
-=======
-console.log('test 22')
->>>>>>> origin/dev
+console.log('test 2')
