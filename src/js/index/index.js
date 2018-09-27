@@ -7,3 +7,4 @@ window.onload = () => {
     console.log("hello , this is 静态首页");
     console.log(testText);
 }
+console.log('test')
